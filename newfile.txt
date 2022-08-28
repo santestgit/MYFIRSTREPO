@@ -1,3 +1,6 @@
 hi this the new file in my first repo
 now im just checking pull request 
 by git pull command
+
+this is im typing in firstbranch 
+
